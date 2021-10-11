@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "vitepress": "^0.13.2"
+    "vitepress": "^0.20.0"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",
